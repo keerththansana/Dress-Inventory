@@ -55,14 +55,7 @@ The system demonstrates notifying a customer (lizza@gmail.com) when a red dress 
 ## Output Example
 Notification sent to lizza@gmail.com: Dear Customer, We are from Fashion World Online Shopping Platform, pleased to inform you that the dress you requested is back in stock!
 
-Details: 
-   Dress Code        : RD001
-   Color             : Red
-   Price             : 1800 LKR
-   Size              : Medium
-   Available Sizes   : S, M, L
-   Available Colors  : Red, Blue, Black, Green, Purple
-
-For more details, visit our website: http://www.fashionWorld.com
+<img width="1888" height="646" alt="7 - Code Output" src="https://github.com/user-attachments/assets/45ff4ed3-c213-47dc-bcf1-4a7f86b2dcaa" />
 
 Confirmation: Notification was successfully sent to lizza@gmail.com
+
